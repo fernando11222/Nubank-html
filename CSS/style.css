@@ -1,0 +1,264 @@
+*{
+    margin: 0;
+}
+.text{
+    font-size: 22px;
+}
+.text2{
+    font-size: 25px;
+}
+.text3{
+    font-size: 25px;
+    color: white;
+}
+.sm{
+    font-size: 22px;
+    color: rgb(255, 0, 255);
+}
+.sm2{
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+}
+.title{
+    font-size: 45px;
+    color: white;
+}
+.subtitle{
+    font-size: 30px;
+    color: white;
+}
+.title2{
+    font-size: 30px;
+}
+.title3{
+    font-size: 55px;
+    color: blueviolet;
+}
+.title4{
+    font-size: 55px;
+    color: rgb(255, 255, 255);
+}
+.title5{
+    font-size: 55px;
+    color: rgb(0, 0, 0);
+}
+.img1{
+    width: 100%;
+    height: 100%;
+}
+.ifc{
+    font-size: 18px;
+}
+.cab{
+    width: 100%;
+    height: 9vh;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.icab{
+    width: 60%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.icab2{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.ini{
+    width: 100%;
+    height: 91vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url('../image/img1.jpg');
+    background-size: cover;
+}
+.inf1{
+    width: 40%;
+    height: 50%;
+    margin-left: 27vh;
+    margin-top: 3vh;
+}
+.inf2{
+    width: 26.5%;
+    height: 55%;
+    background-color: white;
+    border-radius: 16px;
+    margin-right: 8vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.cont{
+    width: 100%;
+    height: 85vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.bloco{
+    width: 25%;
+    height: 57%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(185, 185, 185);
+    border-radius: 14px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.bloco2{
+    width: 39%;
+    height: 63%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.bloco3{
+    width: 43%;
+    height: 70%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.img{
+    width: 100%;
+    height: 100%;
+}
+.imgl{
+    width: 100%;
+    height: 100%;
+    border-radius: 24px 24px 0px 0px;
+}
+.cont2{
+    width: 100%;
+    height: 77vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(58, 18, 95);
+}
+.cont3{
+    width: 75%;
+    height: 112.5vh;
+    margin-left: 12.5%;
+    display: flex;
+    margin-top: 13vh;
+}
+.coluna1{
+    width: 60%;
+    height: 100%;
+}
+.coluna2{
+    width: 40%;
+    height: 100%;
+}
+.bloco4{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.subtitle{
+    margin-top: 7vh;
+    margin-left: 7vh;
+    margin-bottom: 7vh;
+}
+.bloco5{
+    width: 100%;
+    height: 44vh;
+    display: flex;
+    justify-content: space-around;
+}
+.blocoimg{
+    width: 27%;
+    height: 100%;
+}
+.blocoinfo{
+    width: 24.6%;
+    height: 67%;
+    background-color: rgb(240, 240, 240);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.blocomeio{
+    width: 100%;
+    height: 83vh;
+    background-color: rgb(241, 241, 241);
+    display: flex;
+}
+.blocomeio2{
+    width: 100%;
+    height: 40vh;
+    display: flex;
+}
+.blomeio2{
+    width: 50%;
+    height: 100%;
+}
+.blomeio{
+    width: 50%;
+    height: 100%;
+}
+.imgmeio{
+    width: 85%;
+    height: 90%;
+    margin-top: 9vh;
+    margin-left: 7.5%;
+    background-color: aqua;
+}
+.bloco6{
+    width: 80%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin-top: 3vh;
+    margin-left: 10%;
+}
+.pecaconta{
+    width: 90%;
+    height: 30%;
+    margin-left: 5%;
+}
+.cpf{
+    margin-left: 5%;
+}
+.continuar{
+    width: 70%;
+    height: 10%;
+    margin-left: 5%;
+    background-color: rgb(240, 240, 240);
+    border-radius: 32px;
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 20px;
+    margin-bottom: 20px;
+}
+.txtcontinuar{
+    color: rgb(138, 138, 138);
+}
